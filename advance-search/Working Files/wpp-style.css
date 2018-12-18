@@ -1,0 +1,71 @@
+select{background:none !important;}
+  .qtrans_flag_en {background: url(http://www.wpowerproducts.com/wp-content/plugins/qtranslate/flags/gb.png) no-repeat;
+                     }
+                     .qtrans_flag_es {
+                     background: url(http://www.wpowerproducts.com/wp-content/plugins/qtranslate/flags/es.png) no-repeat;
+                     }
+                        .qtrans_flag_en {background: url(http://www.wpowerproducts.com/wp-content/plugins/qtranslate/flags/gb.png) no-repeat;
+                  }
+                  .qtrans_flag_es {
+                  background: url(http://www.wpowerproducts.com/wp-content/plugins/qtranslate/flags/es.png) no-repeat;
+                  }
+                  .nav-horizon ul li:first-child{font-size:12px !important; }
+                  .qts-lang-menu li {
+                  float: left;
+                  line-height: 0.8em;
+                  width: 70px;
+                  }
+                  ul#qtranslateslug-2{margin: -5px 0px 0px;}
+                  #qtranslateslug-2 li a{margin:-10px 0px 0px 0px;}
+                  #qtranslateslug-2 .qtrans_flag_de,#qtranslateslug-2 .qtrans_flag_en,#qtranslateslug-2 .qtrans_flag_es{background-position:2px 5px;}
+                  .qts-lang-menu li {
+                  float: left;
+                  line-height: 0.8em;
+                  width: 70px;
+                  }
+                  #qtranslateslug-2 li{display: block;}
+                  ::-webkit-input-placeholder {
+                  color: #929292;
+                  }
+                  
+                  
+/* 
+	Generic Styling, for Desktops/Laptops 
+	*/
+.table_css
+{
+font-family:Arial, Helvetica, sans-serif;
+width:100%;
+border-collapse:collapse;
+}
+.table_css td, .table_css th 
+{
+font-size:13px;
+border:1px solid #f1f1f1;
+padding:3px 7px 2px 7px;
+}
+.table_css th 
+{
+font-size:15px;
+text-align:left;
+padding-top:5px;
+padding-bottom:4px;
+background-color:#1682cd;
+color:#fff;
+}
+.table_css tr:nth-of-type(odd) { 
+		background: #f9fdff; 
+	}
+	
+.table_css a{text-decoration:underline; color:#0a7ac9; }
+.table_css a:hover{color:#d7efff; }
+
+
+
+/*.gfield_select{background: white; 
+    border: 1px solid #DDD; 
+    border-radius: 5px;    
+    color: #666; 
+    outline: none;   
+    width: 218px; 
+}*/
